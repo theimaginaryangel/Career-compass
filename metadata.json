@@ -1,0 +1,7 @@
+{
+  "name": "Career Compass AI",
+  "description": "An AI-powered application to help users discover their ideal career path. It offers personalized quizzes, real-time market insights, a conversational AI coach, and resume analysis tools to provide comprehensive career guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
