@@ -48,7 +48,7 @@ const App: React.FC = () => {
       <div className="container mx-auto p-4 md:p-8">
         <header className="text-center mb-8">
           <h1 className="text-4xl md:text-5xl font-bold text-white">
-           Benny's Career Compass AI
+            Career Compass AI
           </h1>
           <p className="text-gray-500 mt-2">Your personal guide to a fulfilling career journey.</p>
         </header>
